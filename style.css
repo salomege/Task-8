@@ -75,7 +75,6 @@
   background-color: #fff;
   border-radius: 50%;
   display: inline-block;
-  margin-top: 20px;
 }
 
 .for-margin {
@@ -88,6 +87,5 @@
 }
 
 .for-bullets {
-	margin-left: 607px;
-	margin-right: 606px;
+	margin: 20px 606px 195px 607px;
 }
