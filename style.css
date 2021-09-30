@@ -40,8 +40,13 @@
 	color: white;
 	margin-right: 43px;
 	font-family:'helvetica-regular';
+	font-size: 16px;
 }
-	
+
+.div-for-images{
+	overflow: hidden;
+    right: 0;
+}	
 
 .image-1 {
 	width:  684px;
@@ -56,4 +61,10 @@
 .image-3 {
 	width:  684px;
 	height:  595px;
+}
+
+.contact {
+	color: black;
+	background-color: white;
+	padding: 18px 43px 18px 36px;
 }
